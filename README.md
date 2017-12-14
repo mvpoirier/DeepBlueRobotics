@@ -1,5 +1,4 @@
-# BHARoboticsAcademy
-BHA Robotics Academy
+# BHA Robotics Academy
 
 2016-2017 FTC Velocity Vortex
 
