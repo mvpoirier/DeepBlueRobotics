@@ -1,6 +1,6 @@
 # BHA Robotics Academy
-# FIRST Tech Challenge (FTC)
-# Android Java Source Code and Phone Configuration Files
+FIRST Tech Challenge (FTC)
+Android Java Source Code and Phone Configuration Files
 
 2016-2017 FTC Velocity Vortex
 
