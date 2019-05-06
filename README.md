@@ -1,5 +1,6 @@
 # Deep Blue Robotics Academy
- 
+Branksome Hall Asia, Jeju, South Korea  
+
 FIRST Tech Challenge (FTC) & Korea Robot Champtionship (KRC)
 <ul>
 <li>2016-2017 FTC Velocity Vortex (Seoul, Korea)</li>
