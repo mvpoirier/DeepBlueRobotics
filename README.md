@@ -1,7 +1,8 @@
 # DEEP BLUE Robotics Academy
 Branksome Hall Asia, Jeju, South Korea  
   
-FIRST Tech Challenge (FTC) TEAM #11125  
+FIRST Tech Challenge (FTC) TEAM #11125
+  
 Korea Robot Champtionship (KRC) TEAM #5054  
   
 <ul>
