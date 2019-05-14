@@ -1,8 +1,8 @@
-# Deep Blue Robotics Academy: Code Repository
+# DEEP BLUE Robotics Academy
 Branksome Hall Asia, Jeju, South Korea  
   
-FIRST Tech Challenge (FTC)  
-Korea Robot Champtionship (KRC)  
+FIRST Tech Challenge (FTC) TEAM #11125
+Korea Robot Champtionship (KRC) TEAM #5054
   
 <ul>
 <li>2016-2017 FTC Velocity Vortex (Seoul, Korea)</li>
@@ -10,3 +10,7 @@ Korea Robot Champtionship (KRC)
 <li>2018-2019 FTC Rover Ruckus (Seoul, Korea)</li>
 <li>2019 FTC World Championships (Detroit, USA)</li>
 </ul>
+
+# FTC Code Repository Dependencies
+Developed using Android Studio: https://developer.android.com/studio  
+Requires the FIRST FTC SDK: https://github.com/ftctechnh/ftc_app  
