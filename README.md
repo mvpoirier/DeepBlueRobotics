@@ -3,8 +3,8 @@
 *Branksome Hall Asia, Jeju, South Korea*  
   
 ## Competitions
-- [FIRST Tech Challenge](http://www.firstinspires.org/robotics/ftc) **FTC TEAM #11125**
-- [Korea Robot Champtionship](www.fest.or.kr) **KRC TEAM #5054**
+- **FTC TEAM #11125**: [FIRST Tech Challenge](http://www.firstinspires.org/robotics/ftc)
+- **KRC TEAM #5054**: [Korea Robot Champtionship](www.fest.or.kr)
   
 ## Tournament History
 1. 2016-2017: [FTC Velocity Vortex](https://en.wikipedia.org/wiki/FIRST_Tech_Challenge) (Korea)
