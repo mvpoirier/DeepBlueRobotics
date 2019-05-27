@@ -1,6 +1,6 @@
 # DEEP BLUE Robotics Academy
-Branksome Hall Asia, Jeju, South Korea  
----
+*Branksome Hall Asia, Jeju, South Korea*
+  
 ## Competitions
 - [FIRST Tech Challenge](http://www.firstinspires.org/robotics/ftc) **FTC TEAM #11125**
 - [Korea Robot Champtionship](www.fest.or.kr) **KRC TEAM #5054**
