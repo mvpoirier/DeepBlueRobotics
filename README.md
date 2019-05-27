@@ -1,7 +1,4 @@
-# Robotics Code Repository
-
-## Team Information
-- Deep Blue Robotics Academy 
+# Deep Blue Robotics Academy
 - Branksome Hall Asia, Jeju, South Korea
 - **FTC TEAM #11125**: [FIRST Tech Challenge](http://www.firstinspires.org/robotics/ftc)
 - **KRC TEAM #5054**: [Korea Robot Champtionship](www.fest.or.kr)
