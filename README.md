@@ -12,5 +12,3 @@
 ## Dependencies
 - [Android Studio IDE](https://developer.android.com/studio)
 - [FIRST FTC SDK & Android Phone Apps](https://github.com/ftctechnh/ftc_app)
-
-*//EOF*
