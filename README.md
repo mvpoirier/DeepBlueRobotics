@@ -2,6 +2,7 @@
 
 ## The Team
 - Branksome Hall Asia, Jeju, South Korea
+- **2015-2016: HS Robotics Club** using [Makeblock Robots](https://www.makeblock.com/)
 - **FTC TEAM #11125**: [FIRST Tech Challenge](http://www.firstinspires.org/robotics/ftc)
 - **KRC TEAM #5054**: [Korea Robot Champtionship](www.fest.or.kr)
   
